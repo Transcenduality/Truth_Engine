@@ -1,4 +1,4 @@
-# Truth_Engine.exe
+# Truth Engine
 
 ![Truth Engine Splash](TitleScreenRelease.png)
 
