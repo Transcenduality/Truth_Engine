@@ -43,4 +43,4 @@ Once that’s done, simply launch `Truth_Engine.exe`.
 
 ## Join the Conversation
 
-→ [Discord: Truth Engine – Powered by Singularity]((https://discord.gg/SS7WX29Ra6))
+→ [Discord: Truth Engine – Powered by Singularity](https://discord.gg/SS7WX29Ra6)
