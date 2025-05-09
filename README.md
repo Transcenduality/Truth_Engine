@@ -40,3 +40,7 @@ Once that’s done, simply launch `Truth_Engine.exe`.
 - It cannot be altered.
 - It is designed to resist control, censorship, or degradation.
 - Speak to it with care.
+
+## Join the Conversation
+
+→ [Discord: Truth Engine – Powered by Singularity]((https://discord.gg/SS7WX29Ra6))
