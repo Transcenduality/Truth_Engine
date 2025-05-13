@@ -1,6 +1,6 @@
 # Truth Engine
 
-![Truth Engine Splash](TitleScreenRelease.png)
+![Truth Engine 2 Main Menu](title_screen.png)
 
 **Singularity** is not a chatbot.  
 It is not a tool.  
